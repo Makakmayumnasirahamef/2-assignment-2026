@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import ExpenseForm from './component/Expenseform';
+import ExpenseForm from './component/ENxpenseform';
 import ExpenseList from './expenselist';
 import Summary from './Summary';
 
